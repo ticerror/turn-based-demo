@@ -1,2 +1,2 @@
-# elemental-reactions
+# turn based demo
 (vine boom)
